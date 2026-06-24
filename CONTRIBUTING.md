@@ -39,8 +39,8 @@ We welcome suggestions! Please open an issue describing:
 
 ```bash
 # Clone the repository
-git clone https://github.com/berkmancenter/browsertrix-crawler-thub-fork.git
-cd browsertrix-crawler-thub-fork
+git clone https://github.com/berkmancenter/transparency-hub-browsertrix-crawler.git
+cd transparency-hub-browsertrix-crawler
 
 # Install dependencies
 yarn install
