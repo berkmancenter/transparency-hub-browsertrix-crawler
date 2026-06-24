@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Browsertrix Crawler is a Docker-based browser crawling system using Puppeteer + Brave Browser over CDP. This is the [Transparency Hub fork](https://github.com/berkmancenter/browsertrix-crawler-thub-fork) of [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler). Language: TypeScript. Package manager: Yarn.
+Browsertrix Crawler is a Docker-based browser crawling system using Puppeteer + Brave Browser over CDP. This is the [Transparency Hub fork](https://github.com/berkmancenter/transparency-hub-browsertrix-crawler) of [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler). Language: TypeScript. Package manager: Yarn.
 
 ## Setup
 

@@ -22,7 +22,7 @@ This fork is part of the Transparency Hub ecosystem maintained by the Berkman Kl
 |-----------|-------------|
 | **[Transparency Hub](https://github.com/berkmancenter/transparency-hub)** | Next.js frontend — the public-facing website |
 | **[Transparency Archiver](https://github.com/berkmancenter/transparency-hub-engine)** | Python pipeline that uses this crawler to archive policy documents |
-| **[Browsertrix Crawler Fork](https://github.com/berkmancenter/browsertrix-crawler-thub-fork)** (this repo) | Custom fork of Browsertrix Crawler |
+| **[Browsertrix Crawler Fork](https://github.com/berkmancenter/transparency-hub-browsertrix-crawler)** (this repo) | Custom fork of Browsertrix Crawler |
 
 ## License
 
